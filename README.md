@@ -44,9 +44,11 @@
 ### Homework5
 主要修改的相关蓝图类 FirstPerson/Blueprint/BP_FirstPersonCharacter.uasset。
 
-制作的第一人称动画 FirstPersonArms\Animations。
+制作的第一人称动画 FirstPersonArms\Animations，包括第一人称射击动画和换弹动画。
 
 引入的第三人称动画资产包 AnimStarterPack。
+
+制作的瞄准偏移动画资产 AnimStarterPack/AimOffset。
 
 ### Notes/创建他人可见的人物模型.pdf
 人物模型的同步以及基础动画的实现的作业笔记。
